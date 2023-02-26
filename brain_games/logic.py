@@ -8,7 +8,7 @@ def even_parity():
     print(f'Answer "yes" if the number is even, otherwise answer "no".')
     count_question = 0
     while  count_question < 3:
-        question_num = random.randint(0, 100)
+        question_num = random.randint(1, 100)
         if question_num % 2 == 0:
             check_even = 'yes'
         elif question_num %2 != 0:
