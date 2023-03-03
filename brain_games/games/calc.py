@@ -1,9 +1,11 @@
 import random
 
-rounds = 3
+ROUNDS = 3
+
 
 def rules():
-    print(f'What is the result of the expression?')
+    print('What is the result of the expression?')
+
 
 def random_data():
     operator = random.choice(["+", "-", "*"])
