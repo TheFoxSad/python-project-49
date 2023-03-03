@@ -20,4 +20,4 @@ def start_game(game):
 Let's try again, {name}!""")
             break
         if current_round == game.ROUNDS:
-            print(f'Congratuletion, {name}!')
+            print(f'Congratulations, {name}!')
