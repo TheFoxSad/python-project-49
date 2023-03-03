@@ -4,7 +4,7 @@ ROUNDS = 3
 
 
 def rules():
-    print('What is the result of the expression?')
+    print('What number is missing in the progression?')
 
 
 def random_data():
