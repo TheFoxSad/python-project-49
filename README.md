@@ -6,11 +6,11 @@ CodeClimate BADGES:
 
 Brain Games is a project consisting of 5 different mini games.
 The following mini-games are available to the user to choose from:
-1.brain-even;
-2.brain-prime;
-3.brain-GCD;
-4.brain-calc;
-5.brain-progression.
+	1. brain-even;
+	2. brain-prime;
+	3. brain-GCD;
+	4. brain-calc;
+	5. brain-progression.
 
 Demonstration brain-even:
 
