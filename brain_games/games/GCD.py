@@ -1,9 +1,11 @@
 import random
 
-rounds = 3
+ROUNDS = 3
+
 
 def rules():
-    print(f'Find the greatest common divisor of given numbers.')
+    print('Find the greatest common divisor of given numbers.')
+
 
 def GSD(num1, num2):
     while num1 != 0 and num2 != 0:
@@ -12,6 +14,7 @@ def GSD(num1, num2):
         else:
             num2 %= num1
     return num1 or num2
+
 
 def random_data():
     first_num = random.randint(1, 100)
