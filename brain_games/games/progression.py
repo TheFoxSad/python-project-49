@@ -1,9 +1,11 @@
 import random
 
-rounds = 3
+ROUNDS = 3
+
 
 def rules():
-    print(f'What is the result of the expression?')
+    print('What is the result of the expression?')
+
 
 def random_data():
     start = random.randint(0, 25)
@@ -16,5 +18,5 @@ def random_data():
     index = quest.index(random.choice(quest))
     right_answer = quest[index]
     quest[index] = ".."
-    question_num = " ".join(map(str,quest))
+    question_num = " ".join(map(str, quest))
     return question_num, str(right_answer)
