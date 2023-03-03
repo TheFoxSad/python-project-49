@@ -2,21 +2,22 @@ import prompt
 
 
 def start_game(game):
-    print(f'Welcome to the Brain Games!')
+    print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f"Hello, {name}!")
     game.rules()
     current_round = 0
-    while  current_round < game.rounds:
+    while current_round < game.ROUNDS:
         question, right_answer = game.random_data()
         print(f'Question: {question}')
         answer = input('Your answer: ')
         if right_answer == answer:
-            print(f'Correct!')
+            print('Correct!')
             current_round += 1
         elif right_answer != answer:
-            print(f""""{answer}" is wrong answer ;(. Correct answer was "{right_answer}".
+            r_a = right_answer
+            print(f""""{answer}" is wrong answer ;(. Correct answer was "{r_a}".
 Let's try again, {name}!""")
             break
-        if current_round == game.rounds:
+        if current_round == game.ROUNDS:
             print(f'Congratuletion, {name}!')
