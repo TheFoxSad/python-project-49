@@ -2,6 +2,8 @@
 [![Actions Status](https://github.com/TheFoxSad/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/TheFoxSad/python-project-49/actions)
 CodeClimate BADGES:
 <a href="https://codeclimate.com/github/TheFoxSad/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/c1c4ccbaaf5a0570d752/maintainability" /></a>
+
+
 Brain Games is a project consisting of 5 different mini games.
 The following mini-games are available to the user to choose from:
 1.brain-even;
