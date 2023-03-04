@@ -18,7 +18,7 @@ def start_game(game):
         if right_answer == answer:
             print('Correct!')
         else:
-            right_answer = r_a
+            r_a = right_answer
             print(f""""{answer}" is wrong answer ;(. Correct answer was "{r_a}".
 Let's try again, {name}!""")
             break
