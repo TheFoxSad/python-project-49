@@ -17,10 +17,10 @@ def start_game(game):
         answer = input('Your answer: ')
         if right_answer == answer:
             print('Correct!')
+            if current_round == game.ROUNDS:
+                print(f'Congratulations, {name}!')
         else:
             r_a = right_answer
             print(f""""{answer}" is wrong answer ;(. Correct answer was "{r_a}".
 Let's try again, {name}!""")
             break
-    if current_round == game.ROUNDS:
-        print(f'Congratulations, {name}!')

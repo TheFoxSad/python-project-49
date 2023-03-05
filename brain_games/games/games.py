@@ -6,7 +6,7 @@ from brain_games.games import calc, even, prime, gcd, progression
 my_dict = {"brain-calc"        : calc,
            "brain-even"        : even,
            "brain-prime"       : prime,
-           "brain-_gcd"         : gcd,
+           "brain-gcd"         : gcd,
            "brain-progression" : progression}
 
 
