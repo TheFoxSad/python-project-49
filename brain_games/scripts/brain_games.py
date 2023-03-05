@@ -1,14 +1,24 @@
 #!/usr/bin/env python3
-from brain_games import cli
+import sys
+from brain_games import logic
+from brain_games.games import calc, even, prime, gcd, progression
 
 
-def greeting():
-    print('Welcome to the Brain Games!')
+my_dict = {"brain-calc"        : calc,
+           "brain_even"        : even,
+           "brain_prime"       : prime,
+           "brain_gcd"         : gcd,
+           "brain_progression" : progression}
+
+def choice():
+    game_name = sys.argv[0]
+    value = my_dict.get(game_name)
+    return value
 
 
 def main():
-    greeting()
-    cli.welcome_user()
+    game = choice()
+    logic.start_game(game)
 
 
 if __name__ == '__main__':

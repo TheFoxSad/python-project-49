@@ -7,7 +7,7 @@ def rules():
     print('Find the greatest common divisor of given numbers.')
 
 
-def GSD(num1, num2):
+def gcd(num1, num2):
     while num1 != 0 and num2 != 0:
         if num1 >= num2:
             num1 %= num2
@@ -20,5 +20,5 @@ def random_data():
     first_num = random.randint(1, 100)
     second_num = random.randint(1, 100)
     question = f'{first_num} {second_num}'
-    right_answer = GSD(first_num, second_num)
+    right_answer = gcd(first_num, second_num)
     return question, str(right_answer)
