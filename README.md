@@ -3,14 +3,17 @@
 <a href="https://codeclimate.com/github/TheFoxSad/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/c1c4ccbaaf5a0570d752/maintainability" /></a>
 
 
-Brain Games is a project consisting of 5 different mini games.
-The following mini-games are available to the user to choose from: brain-even, brain-prime, brain-GCD, brain-calc, brain-progression.
+<p><strong>Brain Games</strong> is a project consisting of 5 different mini games.<br />The following mini-games are available to the user to choose from:</p>
+<ol>
+<li>brain-even;</li>
+<li>brain-prime;</li>
+<li>brain-gcd;</li>
+<li>brain-calc;</li>
+<li>brain-progression.</li>
+</ol>
 
-INSTALL:
-git clone https://github.com/TheFoxSad/python-project-49.git
-cd python-project-49
-make build
-make package-install
+<h2 style="text-align: center;">INSTALL:</h2>
+<p style="text-align: justify;"><br />git clone <a href="https://github.com/TheFoxSad/python-project-49.git">https://github.com/TheFoxSad/python-project-49.git</a><br />cd python-project-49<br />make build<br />make package-install</p>
 
 Demonstration gameplay brain-even:
 
