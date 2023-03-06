@@ -6,6 +6,12 @@
 Brain Games is a project consisting of 5 different mini games.
 The following mini-games are available to the user to choose from: brain-even, brain-prime, brain-GCD, brain-calc, brain-progression.
 
+INSTALL:
+git clone https://github.com/TheFoxSad/python-project-49.git
+cd python-project-49
+make build
+make package-install
+
 Demonstration gameplay brain-even:
 
 	https://asciinema.org/a/RQeIiPRonkKAnEh0sbnSLOQ9L
