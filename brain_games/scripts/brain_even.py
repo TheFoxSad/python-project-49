@@ -2,10 +2,8 @@
 from brain_games import logic
 from brain_games.games import even
 
-value = even
-
 def main():
-    logic.start_game(value)
+    logic.start_game(even)
 
 
 if __name__ == '__main__':
