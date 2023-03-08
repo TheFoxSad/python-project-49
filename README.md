@@ -11,29 +11,29 @@
 4. **brain-calc**;
 5. **brain-progression**.
 
-##INSTALL
+## INSTALL
 
-`git clone https://github.com/TheFoxSad/python-project-49.git`
-`cd python-project-49`
-`make build`
-`make package-install`
+	`git clone https://github.com/TheFoxSad/python-project-49.git`
+	`cd python-project-49`
+	`make build`
+	`make package-install`
 
-###Demonstration gameplay brain-even:
+### Demonstration gameplay brain-even:
 
-	<script async id="asciicast-RQeIiPRonkKAnEh0sbnSLOQ9L" src="https://asciinema.org/a/RQeIiPRonkKAnEh0sbnSLOQ9L.js"></script>
+	[![asciicast](https://asciinema.org/a/RQeIiPRonkKAnEh0sbnSLOQ9L.svg)](https://asciinema.org/a/RQeIiPRonkKAnEh0sbnSLOQ9L)
 
-###Demonstration gameplay brain-calc:
+### Demonstration gameplay brain-calc:
 
-	<script async id="asciicast-oLUkFap4OBOK7lxZ2eFd3wsnY" src="https://asciinema.org/a/oLUkFap4OBOK7lxZ2eFd3wsnY.js"></script>
+	[![asciicast](https://asciinema.org/a/oLUkFap4OBOK7lxZ2eFd3wsnY.svg)](https://asciinema.org/a/oLUkFap4OBOK7lxZ2eFd3wsnY)
 
-###Demonstration gameplay brain-gcd:
+### Demonstration gameplay brain-gcd:
 
-	<script async id="asciicast-mtobNWqa0nFXYKjjff6c8XfIn" src="https://asciinema.org/a/mtobNWqa0nFXYKjjff6c8XfIn.js"></script>
+	[![asciicast](https://asciinema.org/a/mtobNWqa0nFXYKjjff6c8XfIn.svg)](https://asciinema.org/a/mtobNWqa0nFXYKjjff6c8XfIn)
 
-###Demonstration gameplay brain-progression:
+### Demonstration gameplay brain-progression:
 
-	<script async id="asciicast-dQRfpmlEo8dB9HPgK9ehuomGG" src="https://asciinema.org/a/dQRfpmlEo8dB9HPgK9ehuomGG.js"></script>
+	[![asciicast](https://asciinema.org/a/dQRfpmlEo8dB9HPgK9ehuomGG.svg)](https://asciinema.org/a/dQRfpmlEo8dB9HPgK9ehuomGG)
 
-###Demonstartion gameplay brain-prime:
+### Demonstartion gameplay brain-prime:
 
-	<script async id="asciicast-24wKjne4sJhaOFHigYTnGAdSy" src="https://asciinema.org/a/24wKjne4sJhaOFHigYTnGAdSy.js"></script>
+	[![asciicast](https://asciinema.org/a/24wKjne4sJhaOFHigYTnGAdSy.svg)](https://asciinema.org/a/24wKjne4sJhaOFHigYTnGAdSy)
