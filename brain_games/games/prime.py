@@ -1,11 +1,7 @@
 import random
 import math
 
-ROUNDS = 3
-
-
-def rules():
-    print('Answer "yes" if given number is prime. Otherwise answer "no".')
+RULES = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
 def random_data():

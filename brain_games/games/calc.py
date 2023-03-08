@@ -1,10 +1,6 @@
 import random
 
-ROUNDS = 3
-
-
-def rules():
-    print('What is the result of the expression?')
+RULES = 'What is the result of the expression?'
 
 
 def random_data():

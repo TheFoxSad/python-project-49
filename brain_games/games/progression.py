@@ -1,10 +1,6 @@
 import random
 
-ROUNDS = 3
-
-
-def rules():
-    print('What number is missing in the progression?')
+RULES = 'What number is missing in the progression?'
 
 
 def random_data():

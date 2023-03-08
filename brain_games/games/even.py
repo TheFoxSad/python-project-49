@@ -1,10 +1,6 @@
 import random
 
-ROUNDS = 3
-
-
-def rules():
-    print('Answer "yes" if the number is even, otherwise answer "no".')
+RULES = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def random_data():

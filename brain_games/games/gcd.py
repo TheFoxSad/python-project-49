@@ -1,10 +1,6 @@
 import random
 
-ROUNDS = 3
-
-
-def rules():
-    print('Find the greatest common divisor of given numbers.')
+RULES = 'Find the greatest common divisor of given numbers.'
 
 
 def gcd(num1, num2):
