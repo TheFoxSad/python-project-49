@@ -1,5 +1,7 @@
 import prompt
 
+ROUNDS = 3
+
 
 def greeting():
     print('Welcome to the Brain Games!')
@@ -10,17 +12,17 @@ def greeting():
 
 def start_game(game):
     name = greeting()
-    game.rules()
-    for current_round, _ in enumerate(range(game.ROUNDS), 1):
+    print(game.RULES)
+    for current_round, _ in enumerate(range(ROUNDS), 1):
         question, right_answer = game.random_data()
         print(f'Question: {question}')
         answer = input('Your answer: ')
         if right_answer == answer:
             print('Correct!')
-            if current_round == game.ROUNDS:
+            if current_round == ROUNDS:
                 print(f'Congratulations, {name}!')
         else:
             r_a = right_answer
-            print(f""""{answer}" is wrong answer ;(. Correct answer was "{r_a}".
-Let's try again, {name}!""")
+            print(f'''"{answer}" is wrong answer ;(. Correct answer was "{r_a}".
+Let's try again, {name}!''')
             break
