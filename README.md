@@ -20,20 +20,20 @@
 
 ### Demonstration gameplay brain-even:
 
-	[![asciicast](https://asciinema.org/a/RQeIiPRonkKAnEh0sbnSLOQ9L.svg)](https://asciinema.org/a/RQeIiPRonkKAnEh0sbnSLOQ9L)
+[![asciicast](https://asciinema.org/a/RQeIiPRonkKAnEh0sbnSLOQ9L.svg)](https://asciinema.org/a/RQeIiPRonkKAnEh0sbnSLOQ9L)
 
 ### Demonstration gameplay brain-calc:
 
-	[![asciicast](https://asciinema.org/a/oLUkFap4OBOK7lxZ2eFd3wsnY.svg)](https://asciinema.org/a/oLUkFap4OBOK7lxZ2eFd3wsnY)
+[![asciicast](https://asciinema.org/a/oLUkFap4OBOK7lxZ2eFd3wsnY.svg)](https://asciinema.org/a/oLUkFap4OBOK7lxZ2eFd3wsnY)
 
 ### Demonstration gameplay brain-gcd:
 
-	[![asciicast](https://asciinema.org/a/mtobNWqa0nFXYKjjff6c8XfIn.svg)](https://asciinema.org/a/mtobNWqa0nFXYKjjff6c8XfIn)
+[![asciicast](https://asciinema.org/a/mtobNWqa0nFXYKjjff6c8XfIn.svg)](https://asciinema.org/a/mtobNWqa0nFXYKjjff6c8XfIn)
 
 ### Demonstration gameplay brain-progression:
 
-	[![asciicast](https://asciinema.org/a/dQRfpmlEo8dB9HPgK9ehuomGG.svg)](https://asciinema.org/a/dQRfpmlEo8dB9HPgK9ehuomGG)
+[![asciicast](https://asciinema.org/a/dQRfpmlEo8dB9HPgK9ehuomGG.svg)](https://asciinema.org/a/dQRfpmlEo8dB9HPgK9ehuomGG)
 
 ### Demonstartion gameplay brain-prime:
 
-	[![asciicast](https://asciinema.org/a/24wKjne4sJhaOFHigYTnGAdSy.svg)](https://asciinema.org/a/24wKjne4sJhaOFHigYTnGAdSy)
+[![asciicast](https://asciinema.org/a/24wKjne4sJhaOFHigYTnGAdSy.svg)](https://asciinema.org/a/24wKjne4sJhaOFHigYTnGAdSy)
