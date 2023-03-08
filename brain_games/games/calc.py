@@ -4,7 +4,7 @@ import operator
 RULES = 'What is the result of the expression?'
 
 
-def random_data():
+def get_question_and_right_answer():
     operators = {
 	"+" : operator.add,
 	"-" : operator.sub,

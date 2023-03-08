@@ -12,7 +12,7 @@ def gcd(num1, num2):
     return num1 or num2
 
 
-def random_data():
+def get_question_and_right_answer():
     first_num = random.randint(1, 100)
     second_num = random.randint(1, 100)
     question = f'{first_num} {second_num}'

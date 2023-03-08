@@ -4,7 +4,7 @@ import math
 RULES = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
-def random_data():
+def get_question_and_right_answer():
     question = random.randint(1, 100)
     if question < 2:
         right_answer = "no"

@@ -14,7 +14,7 @@ def start_game(game):
     name = greeting()
     print(game.RULES)
     for current_round, _ in enumerate(range(ROUNDS), 1):
-        question, right_answer = game.random_data()
+        question, right_answer = game.get_question_and_right_answer()
         print(f'Question: {question}')
         answer = input('Your answer: ')
         if right_answer == answer:

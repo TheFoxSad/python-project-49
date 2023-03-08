@@ -3,7 +3,7 @@ import random
 RULES = 'What number is missing in the progression?'
 
 
-def random_data():
+def get_question_and_right_answer():
     start = random.randint(0, 25)
     step = random.randint(2, 5)
     len_prog = 10
