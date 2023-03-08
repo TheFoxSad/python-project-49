@@ -13,10 +13,10 @@
 
 ## INSTALL
 
-	`git clone https://github.com/TheFoxSad/python-project-49.git`
-	`cd python-project-49`
-	`make build`
-	`make package-install`
+`git clone https://github.com/TheFoxSad/python-project-49.git`  
+`cd python-project-49`  
+`make build`  
+`make package-install`  
 
 ### Demonstration gameplay brain-even:
 
