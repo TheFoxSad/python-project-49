@@ -3,34 +3,37 @@
 <a href="https://codeclimate.com/github/TheFoxSad/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/c1c4ccbaaf5a0570d752/maintainability" /></a>
 
 
-<p><strong>Brain Games</strong> is a project consisting of 5 different mini games.<br />The following mini-games are available to the user to choose from:</p>
-<ol>
-<li>brain-even;</li>
-<li>brain-prime;</li>
-<li>brain-gcd;</li>
-<li>brain-calc;</li>
-<li>brain-progression.</li>
-</ol>
+**Brain Games** - is a project consisting of 5 different mini games. The following mini-games are available to the user to choose from:
 
-<h2 style="text-align: center;">INSTALL:</h2>
-<p style="text-align: justify;"><br />git clone <a href="https://github.com/TheFoxSad/python-project-49.git">https://github.com/TheFoxSad/python-project-49.git</a><br />cd python-project-49<br />make build<br />make package-install</p>
+1. **brain-even**;
+2. **brain-prime**;
+3. **brain-gcd**;
+4. **brain-calc**;
+5. **brain-progression**.
 
-Demonstration gameplay brain-even:
+##INSTALL
 
-	https://asciinema.org/a/RQeIiPRonkKAnEh0sbnSLOQ9L
+`git clone https://github.com/TheFoxSad/python-project-49.git`
+`cd python-project-49`
+`make build`
+`make package-install`
 
-Demonstration gameplay brain-calc:
+###Demonstration gameplay brain-even:
 
-	https://asciinema.org/a/oLUkFap4OBOK7lxZ2eFd3wsnY
+	<script async id="asciicast-RQeIiPRonkKAnEh0sbnSLOQ9L" src="https://asciinema.org/a/RQeIiPRonkKAnEh0sbnSLOQ9L.js"></script>
 
-Demonstration gameplay brain-gcd:
+###Demonstration gameplay brain-calc:
 
-	https://asciinema.org/a/mtobNWqa0nFXYKjjff6c8XfIn
+	<script async id="asciicast-oLUkFap4OBOK7lxZ2eFd3wsnY" src="https://asciinema.org/a/oLUkFap4OBOK7lxZ2eFd3wsnY.js"></script>
 
-Demonstration gameplay brain-progression:
+###Demonstration gameplay brain-gcd:
 
-	https://asciinema.org/a/dQRfpmlEo8dB9HPgK9ehuomGG
+	<script async id="asciicast-mtobNWqa0nFXYKjjff6c8XfIn" src="https://asciinema.org/a/mtobNWqa0nFXYKjjff6c8XfIn.js"></script>
 
-Demonstartion gameplay brain-prime:
+###Demonstration gameplay brain-progression:
 
-	https://asciinema.org/a/24wKjne4sJhaOFHigYTnGAdSy
+	<script async id="asciicast-dQRfpmlEo8dB9HPgK9ehuomGG" src="https://asciinema.org/a/dQRfpmlEo8dB9HPgK9ehuomGG.js"></script>
+
+###Demonstartion gameplay brain-prime:
+
+	<script async id="asciicast-24wKjne4sJhaOFHigYTnGAdSy" src="https://asciinema.org/a/24wKjne4sJhaOFHigYTnGAdSy.js"></script>
