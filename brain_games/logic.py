@@ -13,16 +13,18 @@ def greeting():
 def start_game(game):
     name = greeting()
     print(game.RULES)
-    for current_round, _ in enumerate(range(ROUNDS), 1):
+    current_round = 0
+    while current_round < ROUNDS:
         question, right_answer = game.get_question_and_right_answer()
         print(f'Question: {question}')
         answer = input('Your answer: ')
         if right_answer == answer:
             print('Correct!')
+            current_round += 1
             if current_round == ROUNDS:
                 print(f'Congratulations, {name}!')
         else:
             r_a = right_answer
-            print(f'''"{answer}" is wrong answer ;(. Correct answer was "{r_a}".
-Let's try again, {name}!''')
+            print(f'"{answer}" is wrong answer ;(. Correct answer was "{r_a}".')
+            print(f"Let's try again, {name}!")
             break
