@@ -24,7 +24,6 @@ def start_game(game):
             if current_round == ROUNDS:
                 print(f'Congratulations, {name}!')
         else:
-            r_a = right_answer
-            print(f'"{answer}" is wrong answer ;(. Correct answer was "{r_a}".')
+            print(f'"{answer}" is wrong answer ;(. Correct answer was "{right_answer}".')
             print(f"Let's try again, {name}!")
             break
